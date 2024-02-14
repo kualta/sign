@@ -1,5 +1,5 @@
 {
-  "name": "permissionless-signups-demo",
+  "name": "farcaster-signup",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -21,7 +21,7 @@
     "react-dom": "^18",
     "react-spinners": "^0.13.8",
     "sonner": "^1.0.3",
-    "viem": "^1.15.4",
+    "viem": "^1.21.4",
     "wagmi": "^1.4.3"
   },
   "devDependencies": {
